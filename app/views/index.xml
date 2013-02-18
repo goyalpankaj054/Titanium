@@ -1,0 +1,29 @@
+<Alloy>
+	<TabGroup id ="mainTabGroup">
+		<Tab>
+			<Window>
+				
+			</Window>
+		</Tab>
+		<Tab>
+			<Window>
+				
+			</Window>
+		</Tab>
+		<Tab>
+			<Window>
+				
+			</Window>
+		</Tab>
+		<Tab>
+			<Window>
+				
+			</Window>
+		</Tab>
+		<Tab>
+			<Window>
+				
+			</Window>
+		</Tab>
+	</TabGroup>
+</Alloy>
